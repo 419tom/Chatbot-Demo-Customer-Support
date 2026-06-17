@@ -1,0 +1,20 @@
+{
+  "order_status": [
+    "where is my order",
+    "track my package",
+    "order status"
+  ],
+  "return_item": [
+    "return my order",
+    "send item back",
+    "start return"
+  ],
+  "refund_status": [
+    "where is my refund",
+    "refund status"
+  ],
+  "cancel_order": [
+    "cancel my order",
+    "stop shipment"
+  ]
+}
