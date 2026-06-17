@@ -4,7 +4,7 @@
 
 This project demonstrates the design, implementation, and evaluation of a customer-support chatbot for an e-commerce environment. The chatbot was developed as a conversational AI case study focused on intent modeling, conversation flow design, prompt engineering, fallback handling, and user experience optimization.
 
-The goal was not simply to build a chatbot, but to apply conversation design principles to create a user-centered support experience capable of handling common customer requests while minimizing conversational breakdowns.
+The goal was to apply conversation design principles to create a user-centered support experience capable of handling common customer requests while minimizing conversational breakdowns.
 
 ---
 
