@@ -190,8 +190,8 @@ Evaluation criteria included:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-support-chatbot.git
-cd customer-support-chatbot
+git clone https://github.com/419tom/Chatbot-Demo-Customer-Support.git
+cd Chatbot-Demo-Customer-Support
 ```
 
 Create a virtual environment:
