@@ -333,25 +333,3 @@ The project reflects many of the responsibilities commonly found in conversation
 
 
 
-## Project Structure:
-Chatbot-Demo-Customer-Support/
-│
-├── app.py
-├── chatbot.py
-├── intents.json
-├── prompts.py
-├── evaluator.py
-├── test_cases.json
-├── requirements.txt
-├── README.md
-│
-├── docs/
-│   ├── intent_taxonomy.md
-│   ├── conversation_flows.md
-│   ├── ux_decisions.md
-│   └── case_study.pdf
-│
-└── diagrams/
-    ├── order_tracking_flow.png
-    ├── returns_flow.png
-    └── escalation_flow.png
