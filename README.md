@@ -1,5 +1,3 @@
-# Chatbot-Demo-Customer-Support
-
 # Customer Support Chatbot: Conversation Design & Evaluation
 
 ## Overview
